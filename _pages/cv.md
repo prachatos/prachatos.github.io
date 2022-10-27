@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Tech. in Computer Science and Engineering, Indian Institute of Science, Bangalore, 2018-2020
+* B.Tech. in Computer Science and Engineering, MAKAUT, West Bengal, 2014-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2022 - present: Senior Silicon Design Engineer at AMD India
+  * Working in SPG team.
+  * Worked on performance debugging and benchmarking for AMD server platforms.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* August 2020 - September 2022: Member of Technical Staff 3 at Nutanix India
+  * Worked in AHV (hypervisor) team on libvirt/qemu/KVM stack.
+  * Worked on projects in hypervisor memory management, observability, live migrations.
+  * Worked on local live migration (KVM Forum 2021).
   
+* March 2017 - July 2020: Technical Co-Founder at Drivers4Me
+  * Worked to develop the web server and mobile applications for the MVP of [Drivers4Me](https://www.drivers4me.com).
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C, C++, Python
+* Simulators: Sniper, gem5
 
 Publications
 ======
@@ -48,12 +46,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
