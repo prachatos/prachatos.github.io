@@ -43,10 +43,7 @@ layout: default
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+        <p>{{ page.authorlist }} </p>
         {% endif %}
     
         </header>
@@ -54,6 +51,7 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
+        <p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.videourl }} ">Video</a>]</p>
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
