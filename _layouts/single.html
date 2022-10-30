@@ -48,7 +48,7 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.paperurl and page.videourl % }<p>[<a href=" {{ page.paperurl }} ">Paper</a>] [<a href=" {{ page.videourl }} ">Video</a>]</p>{% endif %}
+        {% if page.paperurl and page.videourl %}<p>[<a href=" {{ page.paperurl }} ">Paper</a>] [<a href=" {{ page.videourl }} ">Video</a>]</p>{% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
