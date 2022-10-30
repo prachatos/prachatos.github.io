@@ -27,10 +27,10 @@
       </div>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
-      <p><b>{{ post.shortname }}</b> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></p>
+      <p ><b>[{{ post.shortname }}]</b> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></p>
     </h3>
-    <p>{{ post.authorlist }}</p>
-    <p>{{ post.venue }}</p>
+    <p class="archive__item-excerpt">{{ post.authorlist }}</p>
+    <p class="archive__item-excerpt">{{ post.venue }}</p>
     </li>
  </article>
 </div>
