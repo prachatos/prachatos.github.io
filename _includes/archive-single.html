@@ -44,7 +44,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    <p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.videourl }} ">Video</a>]</p>
+    {% if post.paperurl and post.videourl %}<p>[<a href=" {{ post.paperurl }} ">Paper</a>] [<a href=" {{ post.videourl }} ">Video</a>]</p>{% endif %}
 
   </article>
 </div>
