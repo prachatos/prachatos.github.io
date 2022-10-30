@@ -11,7 +11,7 @@ title                    : "Prachatos Mitra"
 title_separator          : "-"
 name                     : &name "Prachatos Mitra"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://prachatos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prachatos/prachatos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Prachatos Mitra"
   avatar           : "profile.png"
-  bio              : 
-  location         : 
+  bio              : "Prachatos Mitra is a Senior Silicon Design Engineer at AMD"
+  location         : "Kolkata, India"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            :
+  email            : "prachatosmitra@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "prachatos"
   orcid            : 
   pinterest        :
   soundcloud       :
