@@ -1,7 +1,15 @@
 {% include base_path %}
 
 <meta charset="utf-8">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M6L894M8TH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-M6L894M8TH');
+</script>
+<meta name="google-site-verification" content="K49l-T1V12h18AB9OpDnLJCtYcwYJ6lwOdnosbJlBfQ" />
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
