@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, Georgia Institute of Technology, Atlanta, GA, 2023 - (ongoing)
 * M.Tech. in Computer Science and Engineering, Indian Institute of Science, Bangalore, 2018-2020
 * B.Tech. in Computer Science and Engineering, MAKAUT, West Bengal, 2014-2018
 
 Work experience
 ======
-* September 2022 - present: Senior Silicon Design Engineer at AMD India
+* September 2022 - December 2022: Senior Silicon Design Engineer at AMD India
   * Working in SPG team.
   * Worked on performance debugging and benchmarking for AMD server platforms.
 
