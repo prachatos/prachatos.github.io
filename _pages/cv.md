@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please download CV [from here].(https://prachatos.github.io/files/PrachatosCV.pdf)
+
 Education
 ======
 * Ph.D. in Computer Science, Georgia Institute of Technology, Atlanta, GA, 2023 - (ongoing)
@@ -33,7 +35,7 @@ Work experience
 Skills
 ======
 * Programming Languages: C, C++, Python
-* Simulators: Sniper, gem5
+* Simulators: Sniper, gem5, SST
 
 Publications
 ======
