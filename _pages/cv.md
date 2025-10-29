@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please download CV [from here].(https://prachatos.github.io/files/PrachatosCV.pdf)
+Please download CV [from here](https://prachatos.github.io/files/PrachatosCV.pdf).
 
 Education
 ======
