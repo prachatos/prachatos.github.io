@@ -9,7 +9,7 @@ Performance Computing, Network, Storage, and Analysis'
 paperurl: 'http://prachatos.github.io/files/filter.pdf'
 codeurl: ''
 citation: ''
-authorlist: '<b>Prachatos Mitra*</b>, Alexandros Daglis'
+authorlist: '<b>Prachatos Mitra</b>, Alexandros Daglis'
 shortname: 'SCW 2023'
 ---
 In this work, we analyze distributed Breadth First Search for potential filtering opportunities for the messages transmitted. We identify techniques to reduce the storage requirement for such a filtering logic and discuss implementation considerations for filtering.
