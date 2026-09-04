@@ -19,10 +19,10 @@ Education
 
 Research
 ======
+* 2026 - present: Resource allocation and scheduling for actor-based workloads on commodity hardware, Georgia Tech
 * 2023 - present: Design and simulation for an actor-model sparse graph processing architecture, Georgia Tech (IARPA AGILE)
   * MacroPattern, a methodology that abstracts actor-model workloads into fitted statistical distributions per handler and scales them analytically to arbitrary problem and system size.
   * MPSim, an SST-based parallel discrete-event simulator that takes those distributions as input and simulates systems of ~16 million processing elements.
-* 2026 - present: Resource allocation and scheduling for actor-based workloads on commodity hardware, Georgia Tech
 
 Work experience
 ======

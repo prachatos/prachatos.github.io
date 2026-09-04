@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Prachatos Mitra's homepage"
-excerpt: "About me"
+excerpt: "PhD student in computer architecture at Georgia Tech, working on performance modelling and evaluation of large-scale systems."
 author_profile: true
 redirect_from: 
   - /about/
