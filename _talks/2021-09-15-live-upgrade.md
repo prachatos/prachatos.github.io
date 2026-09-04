@@ -6,7 +6,7 @@ permalink: /talks/live-upgrade-kvm-forum
 venue: "KVM Forum 2021"
 date: 2021-09-15
 location: "(online)"
-slidesurl: "http://prachatos.github.io/files/vmm-live-upgrade.pptx"
+slidesurl: "https://prachatos.github.io/files/vmm-live-upgrade.pptx"
 videourl: "https://www.youtube.com/watch?v=0C_OtcIJgpU"
 ---
 

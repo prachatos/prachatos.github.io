@@ -6,7 +6,7 @@ excerpt: 'In this work, we analyze distributed Breadth First Search for potentia
 date: 2023-11-12
 venue: '13th Workshop on Irregular Applications: Architectures and Algorithms - SCW ’23 Workshops of The International Conference on High  
 Performance Computing, Network, Storage, and Analysis'
-paperurl: 'http://prachatos.github.io/files/filter.pdf'
+paperurl: 'https://prachatos.github.io/files/filter.pdf'
 codeurl: ''
 citation: ''
 authorlist: '<b>Prachatos Mitra</b>, Alexandros Daglis'
