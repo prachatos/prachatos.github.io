@@ -17,11 +17,18 @@ Education
 * M.Tech. in Computer Science and Engineering, Indian Institute of Science, Bangalore, 2018-2020
 * B.Tech. in Computer Science and Engineering, MAKAUT, West Bengal, 2014-2018
 
+Research
+======
+* 2023 - present: Design and simulation for an actor-model sparse graph processing architecture, Georgia Tech (IARPA AGILE)
+  * MacroPattern, a methodology that abstracts actor-model workloads into fitted statistical distributions per handler and scales them analytically to arbitrary problem and system size.
+  * MPSim, an SST-based parallel discrete-event simulator that takes those distributions as input and simulates systems of ~16 million processing elements.
+* 2026 - present: Resource allocation and scheduling for actor-based workloads on commodity hardware, Georgia Tech
+
 Work experience
 ======
 * September 2022 - December 2022: Senior Silicon Design Engineer at AMD India
-  * Working in SPG team.
-  * Worked on performance debugging and benchmarking for AMD server platforms.
+  * Server Performance Group.
+  * Profiled networking and virtualization workloads on EPYC Bergamo servers, attributing throughput loss to OS interrupt handling overhead.
 
 
 * August 2020 - September 2022: Member of Technical Staff 3 at Nutanix India
@@ -34,8 +41,9 @@ Work experience
 
 Skills
 ======
-* Programming Languages: C, C++, Python
-* Simulators: Sniper, gem5, SST
+* Programming languages: C, C++, Python
+* Performance: perf, PAPI, hardware counters
+* Simulation: SST, gem5, Sniper
 
 Publications
 ======
@@ -48,3 +56,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Service
+======
+* Artifact Evaluation Committee, ASPLOS 2027
