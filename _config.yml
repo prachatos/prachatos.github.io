@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prachatos Mitra"
 title_separator          : "-"
 name                     : &name "Prachatos Mitra"
-description              : &description "PhD student in computer architecture at Georgia Tech, working on performance modelling and evaluation of large-scale systems."
+description              : &description "PhD student in computer architecture at Georgia Tech, working on performance modeling and evaluation of large-scale systems."
 url                      : https://prachatos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prachatos/prachatos.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : 
   email            : "prachatosmitra@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "prachatos"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "prachatos"
