@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please download CV [from here](https://prachatos.github.io/files/PrachatosCV.pdf).
+Please download my CV [from here](https://prachatos.github.io/files/PrachatosCV.pdf).
 
 Education
 ======
@@ -43,7 +43,7 @@ Skills
 ======
 * Programming languages: C, C++, Python
 * Performance: perf, PAPI, hardware counters
-* Simulation: SST, gem5, Sniper
+* Simulation: SST, gem5, Sniper, PDES
 
 Publications
 ======
