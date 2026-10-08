@@ -18,4 +18,6 @@ Prior to this, I was a Senior Silicon Design Engineer at AMD India, working in t
 
 Filtering efficiency in distributed BFS as the number of logical partitions grows, for three graph sizes ([SC-W '23](https://prachatos.github.io/files/filter.pdf)). Most vertex visits are wasteful, and a large share of them can be filtered before they cross the network.
 
-I am looking for research and performance modeling internships for Summer 2027. My [CV](https://prachatos.github.io/files/PrachatosCV.pdf) is here.
+I am looking for research and performance modeling internships for Summer 2027.
+
+[CV (PDF)](https://prachatos.github.io/files/PrachatosCV.pdf)
