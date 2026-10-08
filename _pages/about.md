@@ -14,9 +14,13 @@ Prior to this, I was a Senior Silicon Design Engineer at AMD India, working in t
 
 ## Recent work
 
-<p align="center"><img src="/images/bfs-filtering-efficiency.png" alt="Filtering efficiency in distributed BFS against the number of logical partitions, for three graph sizes"></p>
+<p align="center"><img src="/images/macropattern-pipeline.png" alt="MacroPattern: trace collection, distribution generation, distribution scaling, abstracted system modeling, simulation"></p>
 
-Filtering efficiency in distributed BFS as the number of logical partitions grows, for three graph sizes ([SC-W '23](https://prachatos.github.io/files/filter.pdf)). Most vertex visits are wasteful, and a large share of them can be filtered before they cross the network.
+MacroPattern captures how a workload behaves as a small set of fitted distributions per handler, scales those fits analytically to the target problem and system size, and feeds them to MPSim, a parallel discrete-event simulator that reaches 16 million processing elements.
+
+<p align="center"><img src="/images/macropattern-scaling.png" alt="Normalized message rate against problem scale for BFS, TC, Jaccard and PageRank: empirical, MacroPattern, naive scaling and linear regression"></p>
+
+Projected message rate against problem scale for four graph workloads. Beyond the training scales, MacroPattern stays on the empirical curve where naive scaling and linear regression diverge, because it carries the message distributions forward rather than extrapolating a trend.
 
 I am looking for research and performance modeling internships for Summer 2027.
 
